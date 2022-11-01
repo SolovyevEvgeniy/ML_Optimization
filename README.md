@@ -3,8 +3,6 @@ ML Optimization Methods and Techniques
 
 1) GradientDescent
 
-Description of gradient descent
-
 2) Simulated annealing(имитации отжига)
 
-Description of Simulated annealing
+3) Genetic algorithm(Генетический алгоритм)
